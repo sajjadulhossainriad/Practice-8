@@ -1,0 +1,40 @@
+h1{
+    text-align: right;
+    text-transform: uppercase;
+    color: rgb(16, 187, 130);
+    background-color: rgba(10, 53, 243, 0.932);
+    letter-spacing: 5px;
+    text-decoration: overline;
+}
+h2{
+    font-size: 50px;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    text-shadow: 2px 2px red;
+}
+h3{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    background-color: rgba(56, 38, 38, 0.904);
+    text-transform: lowercase;
+    text-decoration: line-through;
+
+}
+a{
+    text-decoration: none;
+    font-size: 100px;
+    word-spacing: 20px;
+    letter-spacing: 3px;
+    color: red;
+    background-color: rgb(2, 124, 2);
+
+}
+p{
+    font-size: 30px;
+    line-height: 100px;
+    background-color: orange;
+    color: black;
+}
